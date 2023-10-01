@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+name: Deploy to Heroku Action
+uses: kimmy-wang/heroku-deploy@v1.0.1
+            
